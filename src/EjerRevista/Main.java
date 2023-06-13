@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException, ClassNotFoundException {
         String num = "1";
-        IRevista loc = new RevistaMetodos();
+        IRevista loc = new ImpAbstract();
         while (num != "6"){
             Scanner s = new Scanner(System.in);
             System.out.println("\" Menú \n 1. Añadir  \n 2. Mostrar todo \n 3. Editar" +

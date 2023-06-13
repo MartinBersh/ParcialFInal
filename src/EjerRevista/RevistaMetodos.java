@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class RevistaMetodos implements IRevista {
+abstract public class RevistaMetodos implements IRevista {
 
     public List<Revista> revistaList;
 

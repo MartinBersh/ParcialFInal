@@ -50,7 +50,7 @@ public class Revista implements Serializable {
 
     @Override
     public String toString() {
-        return "Local: " + "\n"+
+        return "Revista: " + "\n"+
                 "id: " + id + "\n"+
                 "NombreRevista: " + nombreRevista + '\n' +
                 "categoria: " + categoria + '\n' +
