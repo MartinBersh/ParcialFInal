@@ -1,9 +1,7 @@
-package Ejer2;
+package EjerRevista;
 
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
-import java.util.function.Consumer;
 
 abstract class ARevista implements IRevista{
 

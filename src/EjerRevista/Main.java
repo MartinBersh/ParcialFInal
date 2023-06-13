@@ -1,4 +1,4 @@
-package Ejer2;
+package EjerRevista;
 
 import java.io.IOException;
 import java.util.List;
